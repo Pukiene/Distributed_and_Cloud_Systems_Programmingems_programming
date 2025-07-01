@@ -22,12 +22,7 @@ import { Firestore, //database
 //------------
 
   const firebaseConfig = {
-    apiKey: "AIzaSyBksKkY5TaS5X4JvZoOYiCM03RwKLETzxo",
-    authDomain: "cs0222334768.firebaseapp.com",
-    projectId: "cs0222334768",
-    storageBucket: "cs0222334768.firebasestorage.app",
-    messagingSenderId: "801268220266",
-    appId: "1:801268220266:web:a181584a00537e4b35e513"
+//irasyt google detales
   };
 
 
